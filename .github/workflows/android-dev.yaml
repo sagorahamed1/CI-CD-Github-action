@@ -3,11 +3,11 @@ name: Flutter - Android Build Dev
 on:
   push:
     branches:
-      - mail
+      - main
 
   pull_request:
     branches:
-      - mail
+      - main
 
 
 jobs:
